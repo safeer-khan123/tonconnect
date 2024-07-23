@@ -1,5 +1,13 @@
 {
-    "url": "https://ton.vote",
-    "name": "TON Vote",
-    "iconUrl": "https://ton.vote/logo.png"
+  "version": "1.0.0", // Recommended version
+  "url": "https://ton.vote",
+  "name": "TON Vote",
+  "iconUrl": "https://ton.vote/logo.png",
+  "networks": [
+    {
+      "name": "Testnet", // Name of the testnet
+      "endpoints": ["https://testnet.ton.dev"], // List of testnet TON Node endpoints
+      "currencies": ["TON"] // Supported currency (TON in this case)
+    }
+  ]
 }
