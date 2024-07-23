@@ -1,6 +1,5 @@
 {
-  "version": "1.0.0", // Recommended version
-  "url": "https://ton.vote",
-  "name": "TON Vote",
-  "iconUrl": "https://ton.vote/logo.png"
+    "url": "https://ton.vote",
+    "name": "TON Vote",
+    "iconUrl": "https://ton.vote/logo.png"
 }
